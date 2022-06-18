@@ -32,4 +32,9 @@
   --text-normal: #dccdde;
   --text-muted: #a3a6aa;
   --text-link: hsl(274, calc(var(--saturation-factor, 1) * 86%), 65%);
+  --text-link-low-saturation: hsl(
+    274,
+    calc(var(--saturation-factor, 1) * 100%),
+    52.9%
+  );
 }
