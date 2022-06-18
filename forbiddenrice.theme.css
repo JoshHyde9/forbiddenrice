@@ -6,7 +6,7 @@
 */
 
 /* Main Theme File */
-@import url("https://raw.githubusercontent.com/JoshHyde9/forbiddenrice/main/src/style.css");
+@import url("https://github.com/JoshHyde9/forbiddenrice/blob/main/src/style.css");
 
 /* Custom Fonts */
 /* Source Sans Pro */
@@ -18,4 +18,4 @@
 
 /* Discord Custom Covers USRBG */
 /* https://github.com/Discord-Custom-Covers/usrbg */
-@import url("https://raw.githubusercontent.com/Discord-Custom-Covers/usrbg/master/dist/usrbg.css");
+@import url("https://github.com/Discord-Custom-Covers/usrbg/blob/master/dist/usrbg.css");
