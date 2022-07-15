@@ -538,8 +538,8 @@ button,
   border-radius: 8px !important;
 }
 
-:root {
-  --is: #a890b30e;
+.lookFilled-yCfaCM.colorBrand-I6CyqQ:active {
+  background-color: var(--brand-experiment-560);
 }
 
 .modeSelected-3DmyhH .content-1gYQeQ,
