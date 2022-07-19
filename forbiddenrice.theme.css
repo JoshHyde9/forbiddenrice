@@ -1634,9 +1634,10 @@ code[class="inline"] {
   background-color: var(--brand-experiment-560) !important;
 }
 
-/* .markup-eYLPri.messageContent-2t3eCI::selection {
-background-color: var(--brand-experiment-560) !important;
-} */
+.theme-dark .scroller-2GkvCq {
+  background-color: var(--background-secondary);
+}
+
 /* Loading Squares */
 .wanderingCubesItem-3Us-UG {
   background-color: rgb(180, 95, 250);
@@ -1674,16 +1675,12 @@ background-color: var(--brand-experiment-560) !important;
   background-color: var(--background-primary);
 }
 
-.theme-dark .scroller-2GkvCq {
-  background-color: var(--background-secondary);
-}
-
 .theme-dark .reactionSelected-1aMb2K {
-  background-color: var(--selected-background);
+  background-color: var(--indicator-selected);
 }
 
 .theme-dark .reactionSelected-1aMb2K:hover {
-  background-color: var(--selected-hover);
+  background-color: var(--indicator-hovered);
   cursor: pointer;
 }
 
@@ -1692,14 +1689,19 @@ background-color: var(--brand-experiment-560) !important;
 }
 
 /* Reaction Tag Under Message */
-.reaction-2A2y9y {
-  background-color: var(--selected-background);
-  border-color: var(--selected-border);
+.reaction-3vwAF2 {
+  background-color: var(--indicator-hovered);
 }
 
-.reaction-2A2y9y:hover {
-  background-color: var(--selected-hover);
-  border-color: var(--connected-border);
+.reaction-3vwAF2:hover {
+  background-color: var(--indicator-hovered);
+  border-color: var(--brand-experiment);
+}
+
+/* If user has reacted to a message */
+.reaction-3vwAF2.reactionMe-1PwQAc {
+  background-color: var(--indicator-hovered);
+  border-color: var(--brand-experiment);
 }
 
 /* Server User Column */
