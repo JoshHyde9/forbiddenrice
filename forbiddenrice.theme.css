@@ -1879,3 +1879,19 @@ code[class="inline"] {
 .carouselModal-1eUFoq.zoomedCarouselModalRoot-1tAxiu.root-g14mjS.fullscreenOnMobile-ixj0e3 {
   background-color: rgba(0, 0, 0, 0.5) !important;
 }
+
+/* Premium Tab */
+.background-Gjdjzm.selectedBackground-1t6xXq {
+  background-color: var(--indicator-selected);
+  border-radius: var(--indicator-rounding);
+}
+
+.text-sm-bold-1Dtt0R.defaultColor-HXu-5n.offerBadge-1KDtMz {
+  background-color: var(--brand-experiment-560);
+}
+
+.premiumTab-39eQzY.item-3XjbnG.themed-2-lozF
+  > .premiumLabel-3HPvdB
+  > .offerBadge-1KDtMz {
+  background: var(--brand-experiment-560) !important;
+}
