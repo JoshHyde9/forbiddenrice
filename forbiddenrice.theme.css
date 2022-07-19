@@ -1886,12 +1886,10 @@ code[class="inline"] {
   border-radius: var(--indicator-rounding);
 }
 
-.text-sm-bold-1Dtt0R.defaultColor-HXu-5n.offerBadge-1KDtMz {
-  background-color: var(--brand-experiment-560);
+.offerBadge-1KDtMz {
+  background: var(--brand-experiment-560) !important;
 }
 
-.premiumTab-39eQzY.item-3XjbnG.themed-2-lozF
-  > .premiumLabel-3HPvdB
-  > .offerBadge-1KDtMz {
-  background: var(--brand-experiment-560) !important;
+.premiumIcon-xakLA1 > path {
+  fill: #fff;
 }
