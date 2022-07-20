@@ -34,18 +34,18 @@
     "TEXT_NORMAL": ["#dcddde", "#fff"]
   },
   "colours": {
-    "PRIMARY_DARK": "#15131a",
-    "PRIMARY_DARK_100": "#121016",
-    "PRIMARY_DARK_300": "#15131a",
-    "PRIMARY_DARK_360": "#15131a",
-    "PRIMARY_DARK_400": "#15131a",
-    "PRIMARY_DARK_500": "#15131a",
-    "PRIMARY_DARK_600": "#15131a",
-    "PRIMARY_DARK_630": "#15131a",
-    "PRIMARY_DARK_700": "#15131a",
-    "PRIMARY_DARK_800": "#15131a",
-    "BRAND_NEW": "#15131a",
-    "WHITE": "#fff"
-  },
+		"PRIMARY_DARK": "#FFFFFF",
+		"PRIMARY_DARK_100": "#FFFFFF",
+		"PRIMARY_DARK_300": "#FFFFFF",
+		"PRIMARY_DARK_360": "#FFFFFF",
+		"PRIMARY_DARK_400": "#FFFFFF",
+		"PRIMARY_DARK_500": "#FFFFFF",
+		"PRIMARY_DARK_600": "#FFFFFF",
+		"PRIMARY_DARK_630": "#FFFFFF",
+		"PRIMARY_DARK_700": "#FFFFFF",
+		"PRIMARY_DARK_800": "#FFFFFF",
+		"BRAND_NEW": "#FFFFFF",
+		"WHITE": "#FFFFFF"
+	},
   "unsafe_colors": { "CHAT_GREY": "#0e0c11" }
 }
