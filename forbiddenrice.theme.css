@@ -1893,3 +1893,8 @@ code[class="inline"] {
 .premiumIcon-xakLA1 > path {
   fill: #fff;
 }
+
+/* Nofitcation indicator */
+.numberBadge-37OJ3S.base-3IDx3L.baseShapeRound-3epLEv {
+  background-color: var(--brand-experiment) !important;
+}
