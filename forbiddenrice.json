@@ -10,7 +10,29 @@
     }
   ],
   "background": {},
-  "theme_color_map": {},
+  "theme_color_map": {
+    "BACKGROUND_PRIMARY": ["#15131a", "#fff"],
+    "BACKGROUND_SECONDARY": ["#121016", "#fff"],
+    "BACKGROUND_SECONDARY_ALT": ["#0e0c11", "#fff"],
+    "BACKGROUND_TERTIARY": ["#08070a", "#fff"],
+    "BACKGROUND_ACCENT": ["#24212c", "#fff"],
+    "BACKGROUND_FLOATING": ["#030203", "#fff"],
+    "BACKGROUND_NESTED_FLOATING": ["#030203", "#fff"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#08070a", "#fff"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#08070a", "#fff"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#000000", "#fff"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["#000000", "#fff"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#000000", "#fff"],
+    "CHANNELS_DEFAULT": ["#918e97", "#fff"],
+    "HEADER_PRIMARY": ["#fff", "#fff"],
+    "HEADER_SECONDARY": ["#b9bbbe", "#fff"],
+    "INTERACTIVE_ACTIVE": ["#fff", "#fff"],
+    "INTERACTIVE_MUTED": ["#4f545c", "#fff"],
+    "INTERACTIVE_NORMAL": ["#b9bbbe", "#fff"],
+    "TEXT_LINK": ["#b059f3", "#fff"],
+    "TEXT_MUTED": ["#72767d", "#fff"],
+    "TEXT_NORMAL": ["#dcddde", "#fff"]
+  },
   "colours": {},
-  "unsafe_colors": { "CHAT_GREY": "#000000" }
+  "unsafe_colors": { "CHAT_GREY": "#0e0c11" }
 }
