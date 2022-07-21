@@ -1,0 +1,16 @@
+{
+  "name": "forbiddenrice",
+  "author": "Jim",
+  "version": "0.0.1",
+  "description": "A dark pruple relaxing theme",
+  "authors": [
+    {
+      "name": "Jim's Discord Account",
+      "id": "197955018828152833"
+    }
+  ],
+  "background": {},
+  "theme_color_map": {},
+  "colours": {},
+  "unsafe_colors": { "CHAT_GREY": "#000000" }
+}
