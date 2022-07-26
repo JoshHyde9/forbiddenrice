@@ -1880,3 +1880,8 @@ code[class="inline"] {
 .numberBadge-37OJ3S.base-3IDx3L.baseShapeRound-3epLEv {
   background-color: var(--brand-experiment) !important;
 }
+
+/* Privacy & Safety Scan Options */
+.radioBar-3w9XY- {
+  border-radius: 0px 10px 10px 0px !important;
+}
