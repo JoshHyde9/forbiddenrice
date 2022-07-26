@@ -135,6 +135,18 @@
   --background-modifier-hover: var(--indicator-hovered);
   --background-modifier-selected: var(--indicator-hovered);
   --text-link: hsl(274, calc(var(--saturation-factor, 1) * 86%), 65%);
+
+  --scrollbar-thin-thumb: #0e0c11;
+  --scrollbar-thin-track: transparent;
+  --scrollbar-auto-thumb: #0e0c11;
+  --scrollbar-auto-track: transparent;
+  --scrollbar-auto-scrollbar-color-thumb: #0e0c11;
+  --scrollbar-auto-scrollbar-color-track: transparent;
+  --background-floating: #0a080c;
+
+  --elevation-low: 0px 0px 6px var(--background-secondary);
+
+  text-rendering: optimizeSpeed;
 }
 
 .theme-light {
@@ -610,16 +622,6 @@ input,
   width: 13px;
 }
 
-* {
-  --scrollbar-thin-thumb: #0e0c11;
-  --scrollbar-thin-track: transparent;
-  --scrollbar-auto-thumb: #0e0c11;
-  --scrollbar-auto-track: transparent;
-  --scrollbar-auto-scrollbar-color-thumb: #0e0c11;
-  --scrollbar-auto-scrollbar-color-track: transparent;
-  --background-floating: #0a080c;
-}
-
 .autocomplete-3NRXG8,
 .autocompleteInner-2tOQrf {
   border-radius: 10px !important;
@@ -796,10 +798,6 @@ svg[class="repliedTextContentIcon-1ivTae"] > path {
   background-color: var(--background-primary);
 }
 
-* {
-  text-rendering: optimizeSpeed;
-}
-
 .tooltip-14MtrL {
   background-color: var(--background-tertiary) !important;
   border-radius: 8px;
@@ -823,10 +821,6 @@ svg[class="repliedTextContentIcon-1ivTae"] > path {
 .activityText-1rR-8O {
   font-family: var(--font-primary);
   font-size: 12px !important;
-}
-
-* {
-  --elevation-low: 0px 0px 6px var(--background-secondary);
 }
 
 .input-3r5zZY {
@@ -1740,12 +1734,13 @@ code[class="inline"] {
   background-color: rgba(180, 95, 250, 0.25) !important;
 }
 
-/* Server Role Tabs */
+/* Server Role Tabs & Profile Tabs */
 .tabBar-3DfKkN.top-K_jibn {
   margin-right: 0 !important;
 }
 
-.tabBarItem-3nPo4Z.item-3XjbnG.brand-3g5E0C {
+.tabBarItem-3nPo4Z.item-3XjbnG.brand-3g5E0C,
+.tabBarItem-2eb9Nh.item-3XjbnG.brand-3g5E0C {
   margin-right: 0 !important;
   padding: 0.5rem 1rem;
   border-top-left-radius: 10px !important;
