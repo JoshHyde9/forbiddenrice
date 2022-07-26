@@ -1749,6 +1749,10 @@ code[class="inline"] {
   border-bottom-right-radius: 0 !important;
 }
 
+.tabBarItem-2eb9Nh:not(:first-child) {
+  margin-left: 0 !important;
+}
+
 /* Chat Section */
 .item-2LIpTv {
   background-color: rgb(180, 95, 250);
