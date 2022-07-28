@@ -1889,3 +1889,8 @@ code[class="inline"] {
 .radioBar-3w9XY- {
   border-radius: 0px 10px 10px 0px !important;
 }
+
+/* Hide "Get custom profiles like this with Nitro" banner */
+.wrapper-1z1z-S {
+  display: none;
+}
