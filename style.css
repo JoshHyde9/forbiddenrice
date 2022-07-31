@@ -1879,6 +1879,7 @@ code[class="inline"] {
 /* Nofitcation indicator */
 .numberBadge-37OJ3S.base-3IDx3L.baseShapeRound-3epLEv {
   background-color: var(--brand-experiment) !important;
+  padding-left: 1px;
 }
 
 /* Privacy & Safety Scan Options */
